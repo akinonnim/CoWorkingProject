@@ -1,0 +1,30 @@
+Planejamento da aplicação
+==========================
+
+O objetivo desse softwre é emular a locação de espaços de coworking e equipamentos
+
+    Num primeiro momento, vamos criar as classes:
+        - Local
+        - Equipe
+        - Funcionário
+        - Equipamento
+
+Estrutura do MVC do projeto
+
+    * Model - é onde a lógica das regras de negócios vai acontecer, então, o CRUD ocorre dentro
+    dessa camada, o que vai de fato:
+        - inserção
+        - exclusão
+        - associação de objetos
+        - leitura
+        - alteração
+
+    * View - é onde será criado o esquema de saídas, ou seja, o que aparece na tela do usuário
+        - menus
+        - textos
+        - essas coisas
+
+    *Controller - é o intermédio das camadas anteriores, vai receber as informações do usuário
+    e transmitir aos outros módulos.
+
+
