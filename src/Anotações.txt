@@ -25,6 +25,6 @@ Estrutura do MVC do projeto
         - essas coisas
 
     *Controller - é o intermédio das camadas anteriores, vai receber as informações do usuário
-    e transmitir aos outros módulos.
+    e
 
 
